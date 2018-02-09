@@ -44,7 +44,7 @@ CSV_COLUMNS = [
 
 CSV_COLUMN_DEFAULTS = [[0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], [0], ['']]
 LABEL_COLUMN = 'Big_Sky_Families'
-LABELS = ['No', ' Yes']
+LABELS = ['No', 'Yes']
 
 # Define the initial ingestion of each feature used by your model.
 # Additionally, provide metadata about the feature.
